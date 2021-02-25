@@ -17,7 +17,7 @@ This project is a style guide for building websites and contains all suggested c
 * CSS
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Contact
 Created by: Jacob  <br/>
