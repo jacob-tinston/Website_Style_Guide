@@ -1,6 +1,6 @@
 # Website_Style_Guide
 > This is a project that was worked on in line with the Codecademy Full-Stack Engineer Course.  <br/>
-> Project: Mixed Messages  
+> Project: Website Style Guide
 
 ## Contents
 * [General info](#general-info)
